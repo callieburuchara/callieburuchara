@@ -2,8 +2,7 @@
 
 - 👩‍💻 Software Engineer with several years of experience in both JavaScript and Ruby
 - 🇺🇸 Currently based in Maryland, USA
-- Co-creator of Horus, an open-source observability solution for microservices
-
+- 🐦 Co-creator of Horus, an open-source observability solution for microservices
 
 <!--
 **callieburuchara/callieburuchara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
