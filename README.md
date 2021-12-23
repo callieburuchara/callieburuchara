@@ -1,6 +1,6 @@
 ### Hey there, I'm Callie 👋
 
-- 👩‍💻 Software Engineer with several years of experience in both JavaScript and Ruby
+- 👩‍💻 Software Engineer with several years of experience in JavaScript and Ruby
 - 🇺🇸 Currently based in Maryland, USA
 - 🐦 Co-creator of Horus, an open-source observability solution for microservices
 
