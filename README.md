@@ -6,6 +6,8 @@
 
 🐦 Co-creator of Horus, an open-source observability solution for microservices
 
+👩‍🏫 Sharing is my favorite way to learn — whether through teaching or writing
+
 <!--
 **callieburuchara/callieburuchara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
