@@ -1,8 +1,10 @@
 ### Hey there, I'm Callie 👋
 
-👩‍💻 Software Engineer with several years of experience in JavaScript and Ruby
+👩‍💻 Software Engineer that enjoys JavaScript, TypeScript, and Ruby
 
-🇺🇸 Currently based in Maryland, USA
+🇺🇸 Based in Virginia, USA
+
+🔍 Loving the problem solving, bug hunts, and amazing colleagues at New Relic
 
 🐦 Co-creator of Horus, an open-source observability solution for microservices
 
