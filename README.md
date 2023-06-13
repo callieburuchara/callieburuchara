@@ -1,6 +1,6 @@
 ### Hey there, I'm Callie 👋
 
-👩‍💻 Software Engineer that enjoys JavaScript, TypeScript, and Ruby
+👩‍💻 Software Engineer at New Relic that enjoys JavaScript, TypeScript, and Ruby (...but TypeScript most of all)
 
 🇺🇸 Based in Virginia, USA
 
