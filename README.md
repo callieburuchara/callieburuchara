@@ -1,12 +1,12 @@
 ### Hey there, I'm Callie 👋
 
-👩‍💻 Software Engineer at New Relic that enjoys JavaScript, TypeScript, and Ruby (...but TypeScript most of all)
+👩‍💻 Senior Software Engineer at New Relic that enjoys JavaScript, TypeScript, and Ruby (...but TypeScript most of all)
 
 🇺🇸 Based in Virginia, USA
 
 🔍 Loving the problem solving, bug hunts, and amazing colleagues at New Relic
 
-🐦 Co-creator of Horus, an open-source observability solution for microservices
+🐦 Creator of Horus, an open-source observability solution for microservices
 
 👩‍🏫 Sharing is my favorite way to learn — whether through teaching or writing
 
