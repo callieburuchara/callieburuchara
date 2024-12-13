@@ -1,10 +1,10 @@
 ### Hey there, I'm Callie 👋
 
-👩‍💻 Senior Software Engineer at New Relic that enjoys TypeScript & Ruby
+👩‍💻 Senior Software Engineer at Uplift that loves TypeScript and is learning to love Python
 
 🇺🇸 Based in Virginia, USA
 
-🔍 Loving the problem solving, bug hunts, and amazing colleagues at New Relic
+🔍 Loving the problem solving, bug hunts, and amazing colleagues at Uplift
 
 🐦 Creator of Horus, an open-source observability solution for microservices
 
